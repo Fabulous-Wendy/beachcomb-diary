@@ -47,5 +47,8 @@
   "tool_hand_shovel": "assets/props/tool_hand_shovel.webp",
   "scene_rockpool_lighthouse": "assets/bg/scene_rockpool_lighthouse.webp",
   "scene_tidal_pool": "assets/bg/scene_tidal_pool.webp",
-  "scene_sandy_mudflat": "assets/bg/scene_sandy_mudflat.webp"
+  "scene_sandy_mudflat": "assets/bg/scene_sandy_mudflat.webp",
+  "hero_rest_with_dog": "assets/chars/hero_rest_with_dog.webp",
+  "tool_field_notebook": "assets/props/tool_field_notebook.webp",
+  "eco_leaf_badge": "assets/trash/eco_leaf_badge.webp"
 }
